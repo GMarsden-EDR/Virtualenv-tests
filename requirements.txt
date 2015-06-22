@@ -1,5 +1,3 @@
-aws-cfn-bootstrap==1.4
-awscli==1.7.34
 Babel==0.9.4
 backports.ssl-match-hostname==3.4.0.2
 bcdoc==0.16.0
